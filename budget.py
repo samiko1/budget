@@ -34,7 +34,7 @@ class Budget:
         except ValueError:
             print('Please enter a number')
 
-
+#Example (Instantiating objects)
 obj1 = Budget('Food')
 obj2 = Budget('Cloth')
 obj3 = Budget('Entertainment')
